@@ -1622,8 +1622,7 @@
 			text-shadow: 1px 1px 0px #fff;
 		}
 			.wrapper.style2 header{
-				margin-left: 100px;
-				margin-right: 100px;
+				text-align: center
 			}
 
 
@@ -1636,10 +1635,6 @@
 			text-shadow: 1px 1px 0px #fff;
 
 		}
-			.wrapper.style5 p{
-				margin-left: 100px;
-				margin-right: 100px;
-			}
 
 		.wrapper.style4 {
 			background-color: #303030;
@@ -1777,8 +1772,8 @@
 			}
 
 				header > p {
+					margin: 0 5em 3em 5em;
 					font-size: 1.25em;
-					margin: 0;
 				}
 
 			footer {
